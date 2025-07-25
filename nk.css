@@ -1,0 +1,37 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+}
+
+.photo{
+    height: 150px; ;
+    width: 150px; ;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px color  plum;
+}
+
+.Nkwanzi{
+    background-color: brown;
+    border-radius: 10px;
+    box-shadow: 3px 2px 5px color white;
+    margin-bottom: 30px;
+    padding: 30px 20px;
+}
+.avatar{
+width: 100px;
+border-radius: 50px;
+margin: 20px;
+}
+.btw{
+    display: inline-block;
+     margin-top: 15px color gray;
+     font-weight: bold;
+     text-decoration: none;
+}
